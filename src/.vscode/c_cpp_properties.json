@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jayaaraju/dock_ws/install/opennav_docking/include/**",
+        "/home/jayaaraju/dock_ws/install/opennav_docking_core/include/**",
+        "/home/jayaaraju/dock_ws/install/opennav_docking_bt/include/**",
+        "/home/jayaaraju/dock_ws/install/opennav_docking_msgs/include/**",
+        "/home/jayaaraju/dock_ws/install/isaac_ros_tensor_list_interfaces/include/**",
+        "/home/jayaaraju/dock_ws/install/isaac_ros_pointcloud_interfaces/include/**",
+        "/home/jayaaraju/dock_ws/install/isaac_ros_nova_interfaces/include/**",
+        "/home/jayaaraju/dock_ws/install/isaac_ros_nitros_bridge_interfaces/include/**",
+        "/home/jayaaraju/dock_ws/install/isaac_ros_bi3d_interfaces/include/**",
+        "/home/jayaaraju/dock_ws/install/isaac_ros_apriltag_interfaces/include/**",
+        "/home/jayaaraju/nav_ws/install/opennav_docking/include/**",
+        "/home/jayaaraju/proto_ws/install/prototype/include/**",
+        "/home/jayaaraju/proto_ws/install/pallet_loader/include/**",
+        "/home/jayaaraju/pallet_ws/install/pallet_loader/include/**",
+        "/home/jayaaraju/pallet_ws/install/bboxes_ex_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/jayaaraju/code_ws/src/udemy/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
